@@ -1,0 +1,8 @@
+# Ignore env folder
+myenv/
+
+# Ignore .vagrant folder
+.vagrant/
+
+# Ignore __pycache__ folder
+__pycache__/
